@@ -1,4 +1,4 @@
-# React app on docker 
+# React app on docker [![Build Status](https://travis-ci.org/Mishco/docker-react.svg?branch=master)](https://travis-ci.org/Mishco/docker-react)
 
 From tutorial.
 
